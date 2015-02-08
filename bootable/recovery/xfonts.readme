@@ -1,0 +1,12 @@
+Please refer to 
+repo  172.24.61.94:29418/mtk6575/bootable HEAD:refs/for/martell6577-china-dint
+
+bootable/recovery$ tree xfonts/
+xfonts/
+|-- gen_fonts.py
+|-- multilingual.xml
+|-- README
+|-- run.sh
+|-- WenQuanYiMicroHeiMono.ttf
+`-- z.py
+
